@@ -1,1 +1,1 @@
-test readme file
+This is Kevin's first git project!
